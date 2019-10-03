@@ -5,7 +5,11 @@
   "version": "0.0.3",
   "private": false,
   "main": "index",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
+    "jest": "^24.9.0",
     "yarn": "^1.17.3"
   },
   "engines": {

@@ -1,7 +1,4 @@
-const some = (text) => {
-  console.log(text)
+function sum(a, b) {
+  return a + b;
 }
-
-// some('some text')
-
-export default some
+module.exports = sum;
