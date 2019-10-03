@@ -1,5 +1,5 @@
 {
-  "name": "package-upgrade-experiments",
+  "name": "@ganevru/package-upgrade-experiments",
   "author": "Ivan Ganev <ganevio92@gmail.com>",
   "version": "0.0.1",
   "main": "index",
