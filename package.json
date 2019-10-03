@@ -1,0 +1,12 @@
+{
+  "name": "package-upgrade-experiments",
+  "author": "Ivan Ganev <ganevio92@gmail.com>",
+  "version": "0.0.1",
+  "main": "index",
+  "devDependencies": {
+    "yarn": "^1.17.3"
+  },
+  "engines": {
+    "node": ">=10.15.0"
+  }
+}
