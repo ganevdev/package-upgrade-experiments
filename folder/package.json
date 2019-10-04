@@ -1,0 +1,18 @@
+{
+  "name": "@ganevru/package-upgrade-experiments-2",
+  "author": "Ivan Ganev <ganevio92@gmail.com>",
+  "license": "MIT",
+  "version": "0.0.2",
+  "private": false,
+  "main": "index",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "yarn": "^1.17.3"
+  },
+  "engines": {
+    "node": ">=10.15.0"
+  }
+}
