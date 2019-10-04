@@ -2,7 +2,7 @@
   "name": "@ganevru/package-upgrade-experiments",
   "author": "Ivan Ganev <ganevio92@gmail.com>",
   "license": "MIT",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "private": false,
   "main": "index",
   "scripts": {
