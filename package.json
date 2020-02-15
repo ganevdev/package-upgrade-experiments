@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "jest": "^24.9.0",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "engines": {
     "node": ">=10.15.0"
